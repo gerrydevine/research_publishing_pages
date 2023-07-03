@@ -1,0 +1,24 @@
+title: Publishing Research Outputs
+email: gerry.devine@unsw.edu.au
+description: >- # this means to ignore newlines until "baseurl:"
+  These pages will help you in publishing various research outputs, e.g. Research Data, Research Code/Software, NTROs, etc. 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+logo: "/static/img/UNSW_Logo.png"
+
+# Build settings
+# theme: minima
+theme: just-the-docs
+plugins:
+  - jekyll-feed
+
+# color_scheme: custom
+callouts:
+  note:
+    title: Note
+    color: yellow
+  danger:
+    title: Note
+    color: red
+    opacity: 0.2
