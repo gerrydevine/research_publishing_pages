@@ -26,7 +26,7 @@ Before proceeding with publishing your dataset in UNSWorks, please read the foll
 
 - Once logged in, hover over the __Deposit__ link on the top bar and click on __Deposit a dataset__ in the dropdown to open the Dataset deposit form.
 
-[![UNSWorks Deposit Dataset]({{site.baseurl}}/assets/img/UNSWorks-Deposit-Dataset.png){: width="600" }{:target="_blank"}{:style="display:block; margin-left:auto; margin-right: auto;border: 1px solid black;"}]({{site.baseurl}}/assets/img/UNSWorks-Deposit-Dataset.png)
+[![UNSWorks Deposit Dataset]({{site.baseurl}}/assets/img/UNSWorks-Deposit-Dataset.png){: width="600" }{:style="display:block; margin-left:auto; margin-right: auto;border: 1px solid black;"}]({{site.baseurl}}/assets/img/UNSWorks-Deposit-Dataset.png){:target="_blank"}
 
 <br/>
 <br/>
@@ -48,8 +48,7 @@ It is important that you read fully and agree to the terms of the Deposit licens
 
 - Add any __Fields of Research (FoR) codes__ relevant to the dataset. To add an FOR code, use the _Search_ icon on the right of the field to open up the FOR lookup panel. Click into the relevant field codes to select the 6-digit code. Use the _Add more_ link to add further FOR codes.   
 
-[![UNSWorks FOR Code dropdown]({{site.baseurl}}/assets/img/UNSWorks-FORCode-Dropdown.png){: width="600" }{:target="_blank"}{:style="display:block; margin-left:auto; margin-right:auto; border: 1px solid black;"}]({{site.baseurl}}/assets/img/UNSWorks-FORCode-Dropdown.png)
-
+[![UNSWorks FOR Code dropdown]({{site.baseurl}}/assets/img/UNSWorks-FORCode-Dropdown.png){: width="600" }{:style="display:block; margin-left:auto; margin-right:auto; border: 1px solid black;"}]({{site.baseurl}}/assets/img/UNSWorks-FORCode-Dropdown.png){:target="_blank"}
 <br/>
 
 - Add any __Socio-Economic Objective (SEO) codes__ relevant to the dataset. To add an SEO code, use the _Search_ icon to the right of the field to open up the SEO lookup panel. Click into the relevant codes to select the 6-digit code.  Use the _Add more_ link to add further SEO codes.   
