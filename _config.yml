@@ -2,8 +2,8 @@ title: Publishing Research Outputs
 email: gerry.devine@unsw.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
   These pages will help you in publishing various research outputs, e.g. Research Data, Research Code/Software, NTROs, etc. 
-url: "https://gerrydevine.github.io/" # the subpath of your site, e.g. /blog
-baseurl: "research_publishing_pages" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/research_publishing_pages" # the subpath of your site, e.g. /blog
+url: "https://gerrydevine.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 logo: "/assets/img/UNSW_Logo.png"
 
