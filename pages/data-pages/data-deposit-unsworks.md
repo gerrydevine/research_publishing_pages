@@ -24,11 +24,9 @@ Before proceeding with publishing your dataset in UNSWorks, please read the foll
 
 - Navigate to the UNSWorks homepage at [https://unsworks.unsw.edu.au](https://unsworks.unsw.edu.au) and click on __Login__ in the top right corner to log in with your University credentials.
 
-<!-- ![UNSWorks Login](/static/img/UNSWorks_HomePage.png){: width="500" }{:style="display:block; margin-left:auto; margin-right:auto"} -->
-
 - Once logged in, hover over the __Deposit__ link on the top bar and click on __Deposit a dataset__ in the dropdown to open the Dataset deposit form.
 
-![UNSWorks Deposit Dataset](/static/img/UNSWorks-Deposit-Dataset.png){: width="600" }{:style="display:block; margin-left:auto; margin-right: auto;border: 1px solid black;"}
+![UNSWorks Deposit Dataset](./static/img/UNSWorks-Deposit-Dataset.png){: width="600" }{:style="display:block; margin-left:auto; margin-right: auto;border: 1px solid black;"}
 
 <br/>
 <br/>
