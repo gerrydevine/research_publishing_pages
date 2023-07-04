@@ -70,7 +70,7 @@ When you click on the _Publish_ button on your UNSWorks dataset (assuming no err
 - check that a README file has been included and that it contains relevant information.
 - potentially make small edits or additions to the record's metadata to help enrich the dataset.   
 
-If there are major edits to be made to the record, the review panel will email the uploader and ask for further information. 
+If there are major edits or corrections to be made to the record, the review panel will email the uploader and ask for further information. 
 
 <br/>
 <br/>
