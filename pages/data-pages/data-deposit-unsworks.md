@@ -10,13 +10,17 @@ parent: Publishing Research Data
 
 [UNSWorks](https://unsworks.unsw.edu.au) is UNSW's Institutional Repository. It is used for providing open access to a variety of research output types, including research data and software. 
 
-<!-- {: .note }
-Whilst _UNSWorks_ caters for a number of research outputs, only _datasets_ and _theses_ can be directly deposited into UNSWorks. Other types, such as _software_, _research reports_, and _creative works_, are added to UNSWorks via [ROS](https://ros.unsw.edu.au). You can read more about that here. -->
+## Checklist
+
+Before proceeding with publishing your dataset in UNSWorks, please read the following points:
+
+- UNSWorks is suitable for relatively small datasets (up to a maximum of approximately 5GB). If you are publishing a dataset larger than this then you should consider a more suitable data repository. Information about other available repositories can be found [here.](/publishing-data/)
+- If you require a full curation service for your dataset you are encouraged to use the [Dryad](https://data-dryad.org) repository. Dryad, which UNSW researchers can use freely through a University subscription, will help you curate your dataset and aid in producing a high-quality dataset.
+- Versioning
+- Private Links and Embargo
+- Ensure your dataset and metadata have been suitably prepared for publication and open access. For more information, check out [Preparing your data for publication](/preparing-your-data/) 
 
 ## Steps to publish your data in UNSWorks.
-
-Before proceeding, ensure your dataset and metadata have been suitably prepared for publication and open access. For more information, check out [Preparing your data for publication](/preparing-your-data/) 
-
 
 - Navigate to the UNSWorks homepage at [https://unsworks.unsw.edu.au](https://unsworks.unsw.edu.au) and click on __Login__ in the top right corner to log in with your University credentials.
 
@@ -58,11 +62,17 @@ It is important that you read fully and agree to the terms of the Deposit licens
 
 - If useful, select the __Language__ used within the dataset.
 
-
+## README file
 
 ## Dataset Review Process and Next Steps  
 
-When you click on the _Publish_ button on your uploaded dataset (assuming no errors in your upload form), your dataset will be forwarded for review to the UNSW dataset review panel.
+When you click on the _Publish_ button on your UNSWorks dataset (assuming no errors in your upload form), your dataset will be forwarded for review to the UNSW dataset review panel. During this process, UNSW dataset review personnel will:
+- check that the dataset is of a suitable quality (that is, will check that sufficient detail has been provided that that dataset will be understood and reusable by others)
+- check that the dataset contains actual dataset files, and where possible check that these files are saved in a non-proprietary format.
+- check that a README file has been included and that it contains relevant information.
+- potentially make small edits or additions to the record's metadata to help enrich the dataset.   
+
+If there are major edits to be made to the record, the review panel will email the uploader and ask for further information. 
 
 <br/>
 <br/>

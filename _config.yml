@@ -9,7 +9,6 @@ logo: "/static/img/UNSW_Logo.png"
 
 # Build settings
 # theme: minima
-# theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
@@ -20,6 +19,6 @@ callouts:
     title: Note
     color: yellow
   danger:
-    title: Note
+    title: Important!
     color: red
     opacity: 0.2
