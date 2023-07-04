@@ -50,7 +50,7 @@ It is important that you read fully and agree to the terms of the Deposit licens
 
 ![UNSWorks FOR Code dropdown]({{baseurl}}/assets/img/UNSWorks-FORCode-Dropdown.png){: width="600" }{:style="display:block; margin-left:auto; margin-right:auto; border: 1px solid black;"}
 
-<img src="{{site.baseurl}}/asset/img/UNSWorks-FORCode-Dropdown.png" width="600" style="display:block; margin-left:auto; margin-right:auto; border: 1px solid black;" />
+<img src="{{site.baseurl}}/assets/img/UNSWorks-FORCode-Dropdown.png" width="600" style="display:block; margin-left:auto; margin-right:auto; border: 1px solid black;" />
 
 
 <br/>
