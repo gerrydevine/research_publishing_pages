@@ -13,6 +13,9 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
 
+baseurl: /research_publishing_pages
+url: gerrydevine.github.io
+
 # color_scheme: custom
 callouts:
   note:
