@@ -82,7 +82,7 @@ It is important that you read fully and agree to the terms of the Deposit licens
 {: .note }
 It is highly recommended that datasets are either directly uploaded into UNSWorks as part of the dataset submission, or an external data repository DOI is used for data situated elsewhere online. The long-term integrity of non-DOI links to datasets situated elsewhere, either online or physically, can not be assured and is thus not encouraged, unless under specific circumstances.  
 
-- To create a dataset record in UNSWorks for data that is available at a specific web address complete the __Electronic location__ field using a full web address (http://..., https:://..., etc)   
+- To create a dataset record in UNSWorks for data that is available at a specific web address complete the __Electronic location__ field using a full web address (http://..., https://..., etc)   
 
 - If the dataset being documented is stored on physical media as opposed to online, give a full description of that __Physical Location__.
 
