@@ -2,7 +2,7 @@
 layout: page
 title: Publishing your Data using UNSWorks
 permalink: /data-deposit-unsworks/
-nav_order: 4
+nav_order: 5
 parent: Publishing Research Data
 ---
 
