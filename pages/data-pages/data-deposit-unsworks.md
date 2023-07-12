@@ -8,21 +8,20 @@ parent: Publishing Research Data
 
 # Publishing data using UNSWorks
 
-[UNSWorks](https://unsworks.unsw.edu.au) is UNSW's Institutional Repository. It is used for providing open access to a variety of research output types, including research data and software. 
+[UNSWorks](https://unsworks.unsw.edu.au){:target="_blank"} is UNSW's Institutional Repository. It is used for providing open access to a variety of research output types, including research data and software. 
 
 ## Checklist
 
 Before proceeding with publishing your dataset in UNSWorks, please read the following points:
 
-- UNSWorks is suitable for relatively small datasets (up to a maximum of approximately 5GB). If you are publishing a dataset larger than this then you should consider a more suitable data repository. Information about other available repositories can be found [here.](/publishing-data/)
-- If you require a full curation service for your dataset you are encouraged to use the [Dryad](https://datadryad.org) repository. Dryad, which UNSW researchers can use freely through a University subscription, will help you curate your dataset and aid in producing a high-quality dataset.
-- Versioning
-- Private Links and Embargo
-- Ensure your dataset and metadata have been suitably prepared for publication and open access. For more information, check out [Preparing your data for publication](/preparing-your-data/) 
+- [ ] UNSWorks is suitable for relatively small datasets (up to a maximum of approximately 5GB). If you are publishing a dataset larger than this then you should consider a more suitable data repository. Information about other available repositories can be found [here.](/publishing-data/)
+- [ ] If you require a full curation service for your dataset you are encouraged to use the [Dryad](https://datadryad.org){:target="_blank"} repository. Dryad, which UNSW researchers can use freely through a University subscription, will help you curate your dataset and aid in producing a high-quality dataset.
+- [ ] If you are expecting to publish evolving versions of your dataset over time (for example from a longtitudinal study), then it may be that an alternative repository such as Zenodo may be better suited.
+- [ ] Ensure your dataset and metadata have been suitably prepared for publication and open access. For more information, check out [Preparing your data for publication](/preparing-your-data/) 
 
 ## Steps to publish your data in UNSWorks.
 
-- Navigate to the UNSWorks homepage at [https://unsworks.unsw.edu.au](https://unsworks.unsw.edu.au) and click on __Login__ in the top right corner to log in with your University credentials.
+- Navigate to the UNSWorks homepage at [https://unsworks.unsw.edu.au](https://unsworks.unsw.edu.au){:target="_blank"} and click on __Login__ in the top right corner to log in with your University credentials.
 
 - Once logged in, hover over the __Deposit__ link on the top bar and click on __Deposit a dataset__ in the dropdown to open the Dataset deposit form.
 

@@ -8,8 +8,9 @@ parent: Publishing Research Data
 
 # Preparing your data for publication
 
-Data that is structured well will aid reuse. Documented below is a checklist to help you prepare your data for enhanced reuse and sharing.
+Where you decide to publish your data will dictate how you should structure   
 
+Data that is structured well will aid reuse. Documented below is a checklist to help you prepare your data for enhanced reuse and sharing.
 
 ## Authorship
 
