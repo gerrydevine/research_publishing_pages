@@ -8,16 +8,16 @@ parent: Publishing Research Data
 
 # Publishing data using UNSWorks
 
-[UNSWorks](https://unsworks.unsw.edu.au){:target="_blank"} is UNSW's Institutional Repository. It is used for providing open access to a variety of research output types, including research data and software. 
+[UNSWorks](https://unsworks.unsw.edu.au){:target="_blank"} is UNSW's Institutional Repository. It is used for providing open access to a variety of research output types, including research data. 
 
 ## Checklist
 
 Before proceeding with publishing your dataset in UNSWorks, please read the following points:
 
-- [ ] UNSWorks is suitable for relatively small datasets (up to a maximum of approximately 5GB). If you are publishing a dataset larger than this then you should consider a more suitable data repository. Information about other available repositories can be found [here.](/publishing-data/)
-- [ ] If you require a full curation service for your dataset you are encouraged to use the [Dryad](https://datadryad.org){:target="_blank"} repository. Dryad, which UNSW researchers can use freely through a University subscription, will help you curate your dataset and aid in producing a high-quality dataset.
-- [ ] If you are expecting to publish evolving versions of your dataset over time (for example from a longtitudinal study), then it may be that an alternative repository such as Zenodo may be better suited.
-- [ ] Ensure your dataset and metadata have been suitably prepared for publication and open access. For more information, check out [Preparing your data for publication](/preparing-your-data/) 
+- UNSWorks is suitable for small datasets (up to a maximum of approximately 5GB). If you are publishing a dataset larger than this then you should consider a more suitable data repository. Information about other available repositories can be found [here.](/publishing-data/)
+- If you require a full curation service for your dataset you are encouraged to use the [Dryad](https://datadryad.org){:target="_blank"} repository. Dryad, which UNSW researchers can use freely through a University subscription, will help you curate your dataset and aid in producing a high-quality dataset.
+- If you are expecting to publish evolving versions of your dataset over time (for example from a longtitudinal study), then it may be that an alternative repository such as Zenodo may be better suited.
+- Ensure that your dataset and metadata have been suitably prepared for publication and open access. For more information, check out [Preparing your data for publication](/preparing-your-data/) 
 
 ## Steps to publish your data in UNSWorks.
 
@@ -87,11 +87,11 @@ It is highly recommended that datasets are either directly uploaded into UNSWork
 
 - In circumstances whereby you are not directly uploading the data into UNSWorks, or providing a DOI to an external repository, then please provide useful __Contact Information__ (noting that this information will be publicly available).
 
-- If the dataset has already been published elsewhere with a DOI, please enter that DOI in the __External Data Repository DOI__ field. 
+- If the dataset has already been published elsewhere with a DOI, please enter that DOI in the __External Data Repository DOI__ field. Note that in this case a new DOI will not be allocated as part of this record's publication process.  
 
 - Select a reuse __License__. Note that the use of a CC-BY license (or CC0) is highly encouraged for datasets. To read more about the choise of license, see [here](https://subjectguides.library.unsw.edu.au/open-access/publishing/datasets)
 
-- By default, UNSW will be listed as the __Rights holder__ to datasets published in UNSWorks. To discuss different arrangements please get in touch.  
+- By default, it is expected that UNSW will be listed as the __Rights holder__ to datasets published in UNSWorks. To discuss different arrangements please get in touch.  
 
 ### Related item(s) Section
 
@@ -101,7 +101,7 @@ The _Related item(s)_ section allows you to associate your dataset with any dire
 
 To upload your dataset's files, you can either:
 1. Drag and Drop your files from you local computer directly onto the Upload files panel
-2. Use the __browse files__ link or __My Device__ icon to choose files on your local system
+2. Use the __browse files__ link or __My Device__ icon to choose files from your local system
 3. Use the __Link__ button to download files directly from a web link
 
 _(Note that the 'Google Drive' option is currently unsupported and users should refrain from using this file upload mechanism)_
@@ -121,18 +121,23 @@ The _file edit_ panel (located at the bottom of the page) allows you to:
 To open the _file edit_ panel, click on the _Edit file_ icon to the right of each uploaded file (at the bottom of the page).
 
 {: .note }
-You are encouraged to publish files open-access (as per the default). If you choose to make a file _private_ or _embargoed_, you must explain the reasoning for this. 
+You are encouraged to publish files open-access (as per the default). If you choose to make a file _private_ or _embargoed_, you may be contacted by the review team to explain the reasoning for this. 
 
 
 ## Dataset Review Process and Next Steps  
 
-When you click on the __Deposit__ button on your UNSWorks dataset (and assuming there are no errors in your upload form), your dataset will be forwarded for review to the UNSW dataset review panel. During this process, UNSW dataset review personnel will:
+When you click on the __Deposit__ button on your UNSWorks dataset (and assuming there are no errors in your upload form), your dataset will be submitted for review to the UNSW dataset review panel. During this process, UNSW dataset review personnel will:
 - check that the dataset is of a suitable quality (that is, will check that sufficient detail has been provided so that that dataset will be understood and reusable by others)
 - check that the dataset contains actual dataset files, and where possible check that these files are saved in a non-proprietary format.
 - check that a README file has been included and that it contains relevant information.
 - potentially make small edits or additions to the record's metadata to help enrich the dataset.   
 
-If there are major edits or corrections to be made to the record, the review panel will email the uploader and ask for further information. 
+If there are major edits or corrections to be made to the record, the review panel will contact the uploader and ask for further information. 
+
+## Successful Publication
+
+Once your dataset has successfully made it through the review process, the dataset will be published on the UNSWorks website, and will be discoverable via the Browse and Search pages. You will receive an automated email notifying you of this. In addition, a DOI will be allocated to your data, allowing you and others to directly refer to or cite your dataset. Note that it can take up to 24 hours for a DOI to be allocated to your dataset.
+
 
 <br/>
 <br/>
