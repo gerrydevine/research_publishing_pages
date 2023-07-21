@@ -6,6 +6,7 @@ baseurl: "/research_publishing_pages" # the subpath of your site, e.g. /blog
 url: "https://gerrydevine.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 logo: "/assets/img/UNSW_Logo.png"
+favicon_ico: "/assets/img/favicon.ico"
 
 # Build settings
 # theme: minima
