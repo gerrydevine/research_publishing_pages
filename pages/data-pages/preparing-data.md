@@ -4,6 +4,7 @@ title: Preparing your data for publication
 permalink: /preparing-your-data/
 nav_order: 3
 parent: Publishing Research Data
+has_children: true
 ---
 
 # Preparing your data for publication

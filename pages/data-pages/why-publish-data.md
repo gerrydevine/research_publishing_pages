@@ -14,14 +14,18 @@ Publishing your research data has many benefits:
 
 - Meets University research data policies
 
-- Fulfills requirements of Funding Bodies and Journals (data availability)
+- Fulfills the data availiability requirements of funding bodies and journals.
 
-- Provides long-term and secure storage, curation and preservation of your data
+- Provides secure, long-term storage and preservation of your data
 
 - Enables access, sharing, licensing, re-use and citation, increasing your research impact
 
+- Helps promote the research that originally generated the dataset 
+
 - Enables metadata discovery promoting collaboration
 
-- Data re-use results in more efficient research
+- Data re-use results in more efficient research, reducing the cost and effort in duplicating data collection and/or generation 
 
+- Can lead to new innovative uses of that data.
 
+{{ paginator.next_page_path }}

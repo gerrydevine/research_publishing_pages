@@ -137,10 +137,3 @@ If there are major edits or corrections to be made to the record, the review pan
 ## Successful Publication
 
 Once your dataset has successfully made it through the review process, the dataset will be published on the UNSWorks website, and will be discoverable via the Browse and Search pages. You will receive an automated email notifying you of this. In addition, a DOI will be allocated to your data, allowing you and others to directly refer to or cite your dataset. Note that it can take up to 24 hours for a DOI to be allocated to your dataset.
-
-
-<br/>
-<br/>
-
-{: .note }
-If you require any assistance, or have any questions, regarding uploading and publishing your research dataset, please [get in touch](/contact/)

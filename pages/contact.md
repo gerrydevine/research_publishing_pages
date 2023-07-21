@@ -7,4 +7,8 @@ nav_order: 5
 
 # Further Information / Contact Details
 
-Here is who to contact 
+{: .note }
+If you require any assistance, or have any questions, regarding any of the topics discussed on these pages, please get in touch:
+
+- In the first instance you should contact your Academic Engagement representative. 
+
