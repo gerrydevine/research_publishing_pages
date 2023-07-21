@@ -89,7 +89,7 @@ It is highly recommended that datasets are either directly uploaded into UNSWork
 
 - If the dataset has already been published elsewhere with a DOI, please enter that DOI in the __External Data Repository DOI__ field. Note that in this case a new DOI will not be allocated as part of this record's publication process.  
 
-- Select a reuse __License__. Note that the use of a CC-BY license (or CC0) is highly encouraged for datasets. To read more about the choise of license, see [here](https://subjectguides.library.unsw.edu.au/open-access/publishing/datasets)
+- Select a reuse __License__. Note that the use of a CC-BY license (or CC0) is highly encouraged for datasets. To read more about the choice of license, see [here](https://subjectguides.library.unsw.edu.au/open-access/publishing/datasets)
 
 - By default, it is expected that UNSW will be listed as the __Rights holder__ to datasets published in UNSWorks. To discuss different arrangements please get in touch.  
 
