@@ -8,7 +8,7 @@ parent: Publishing Research Data
 
 # Where can I publish my Data?
 
-A number of options exist for where, or by which method, you can publish a research dataset. These include publishing your dataset in a dedicated data journal paper, as part of a journal paper submission process (for journals that offer data publishing as part of their submission process), or by directly publishing your data in an online data repository (including those specific to your scientific discipline, general-purpose repositories, or provided by your local institution).        
+A number of options exist for where, or by which method, you can publish a research dataset. These include publishing your dataset in a dedicated data journal paper, as part of a journal paper submission process (for journals that offer data publishing as part of their submission process), or by directly publishing your data in an online data repository (including those specific to your scientific discipline, general-purpose repositories, or in a repository provided by your local institution).        
 
 When choosing which pathway to publish your data, it can be important to consider:
 
@@ -50,4 +50,6 @@ A __data repository__ is an online storage platform, typically hosted by an inst
 ### UNSWorks
 
 
-  
+### Data Publishing Flowcart
+
+[![Data publishing flowchart]({{site.baseurl}}/assets/img/data_pub_decision_flowchart.png){: width="900" }{:style="display:block; margin-left:auto; margin-right:auto; border: 1px solid black;"}]({{site.baseurl}}/assets/img/data_pub_decision_flowchart.png){:target="_blank"}

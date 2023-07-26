@@ -117,17 +117,25 @@ _(Note that the 'Google Drive' option is currently unsupported and users should 
 The _file edit_ panel (located at the bottom of the page) allows you to:
 - provide a file-level description for a file that you have uploaded
 - change the default open-access status of any files
+- Delete a file from the current dataset
 
 To open the _file edit_ panel, click on the _Edit file_ icon to the right of each uploaded file (at the bottom of the page).
 
 {: .note }
 You are encouraged to publish files open-access (as per the default). If you choose to make a file _private_ or _embargoed_, you may be contacted by the review team to explain the reasoning for this. 
 
+## Save and Deposit
+
+The button bar at the bottom of the page allows you to:
+- __Discard__ the current record.
+- __Save__ the current status (and continue working).
+- __Save for later__ and return at a later date.
+- __Deposit__ your completed dataset for review and publication.
 
 ## Dataset Review Process and Next Steps  
 
 When you click on the __Deposit__ button on your UNSWorks dataset (and assuming there are no errors in your upload form), your dataset will be submitted for review to the UNSW dataset review panel. During this process, UNSW dataset review personnel will:
-- check that the dataset is of a suitable quality (that is, will check that sufficient detail has been provided so that that dataset will be understood and reusable by others)
+- check that the dataset is of a suitable quality (that is, check that sufficient detail has been provided so that that dataset will be understood and reusable by others).
 - check that the dataset contains actual dataset files, and where possible check that these files are saved in a non-proprietary format.
 - check that a README file has been included and that it contains relevant information.
 - potentially make small edits or additions to the record's metadata to help enrich the dataset.   
